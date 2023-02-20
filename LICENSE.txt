@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2011-2022 Dirk Beyer <https://www.sosy-lab.org>
+#
+# SPDX-License-Identifier: Apache-2.0
+
+All software archives (ZIP files) contain their own license,
+all other files in this repository are licensed under Apache 2.0.
